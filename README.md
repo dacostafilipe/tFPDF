@@ -1,5 +1,5 @@
 # tFPDF
-My modified version of tFPDF with support for cropped imaged.
+My modified version of tFPDF with support for cropped images.
 
 Original by Ian Back : http://www.fpdf.org/en/script/script92.php
 
